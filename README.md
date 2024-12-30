@@ -12,7 +12,7 @@ A simple, fast, and intuitive **Todo List App** that helps users organize and tr
 
 ## Project Link
 You can view the live demo of the project here:  
-🔗 **[Live Demo](https://todo-list-app-chi-self.vercel.app)**
+🔗 **[Live Demo](todo-list-app-nithin-kuppams-projects.vercel.app)**
 
 ## How to Use
 1. **Add a task**: Type a task in the input field and press the **Add Task** button.
